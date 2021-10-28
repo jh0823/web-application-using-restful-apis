@@ -1,8 +1,0 @@
-C:\Users\Jessica\source\repos\hw3_test_1\hw3_test_1\bin\hw3_test_1.dll.config
-C:\Users\Jessica\source\repos\hw3_test_1\hw3_test_1\bin\hw3_test_1.dll
-C:\Users\Jessica\source\repos\hw3_test_1\hw3_test_1\bin\hw3_test_1.pdb
-C:\Users\Jessica\source\repos\hw3_test_1\hw3_test_1\bin\Newtonsoft.Json.dll
-C:\Users\Jessica\source\repos\hw3_test_1\hw3_test_1\bin\Newtonsoft.Json.xml
-C:\Users\Jessica\source\repos\hw3_test_1\hw3_test_1\obj\Debug\hw3_test_1.csproj.CopyComplete
-C:\Users\Jessica\source\repos\hw3_test_1\hw3_test_1\obj\Debug\hw3_test_1.dll
-C:\Users\Jessica\source\repos\hw3_test_1\hw3_test_1\obj\Debug\hw3_test_1.pdb
