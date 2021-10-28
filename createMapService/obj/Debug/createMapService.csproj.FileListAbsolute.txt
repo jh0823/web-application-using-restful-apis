@@ -1,8 +1,0 @@
-C:\Users\Jessica\source\repos\hw3_test_1\createMapService\bin\createMapService.dll.config
-C:\Users\Jessica\source\repos\hw3_test_1\createMapService\bin\createMapService.dll
-C:\Users\Jessica\source\repos\hw3_test_1\createMapService\bin\createMapService.pdb
-C:\Users\Jessica\source\repos\hw3_test_1\createMapService\bin\Newtonsoft.Json.dll
-C:\Users\Jessica\source\repos\hw3_test_1\createMapService\bin\Newtonsoft.Json.xml
-C:\Users\Jessica\source\repos\hw3_test_1\createMapService\obj\Debug\createMapService.csproj.CopyComplete
-C:\Users\Jessica\source\repos\hw3_test_1\createMapService\obj\Debug\createMapService.dll
-C:\Users\Jessica\source\repos\hw3_test_1\createMapService\obj\Debug\createMapService.pdb
