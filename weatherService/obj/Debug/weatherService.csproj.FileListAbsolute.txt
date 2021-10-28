@@ -1,0 +1,9 @@
+C:\Users\Jessica\source\repos\hw3_test_1\weatherService\bin\weatherService.dll.config
+C:\Users\Jessica\source\repos\hw3_test_1\weatherService\bin\weatherService.dll
+C:\Users\Jessica\source\repos\hw3_test_1\weatherService\bin\weatherService.pdb
+C:\Users\Jessica\source\repos\hw3_test_1\weatherService\bin\Newtonsoft.Json.dll
+C:\Users\Jessica\source\repos\hw3_test_1\weatherService\bin\Newtonsoft.Json.xml
+C:\Users\Jessica\source\repos\hw3_test_1\weatherService\obj\Debug\weatherService.csproj.CopyComplete
+C:\Users\Jessica\source\repos\hw3_test_1\weatherService\obj\Debug\weatherService.dll
+C:\Users\Jessica\source\repos\hw3_test_1\weatherService\obj\Debug\weatherService.pdb
+C:\Users\Jessica\source\repos\hw3_test_1\weatherService\obj\Debug\weatherService.csprojAssemblyReference.cache
